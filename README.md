@@ -1,7 +1,7 @@
 ## ARobot Wanderer - Objects Collecting bot
-[![Build Status](https://travis-ci.org/rajesh1996/wanderer-bot.svg?branch=master)](https://travis-ci.org/rajesh1996/wanderer-bot)
-[![Coverage Status](https://coveralls.io/repos/github/rajesh1996/wanderer-bot/badge.svg?branch=master)](https://coveralls.io/github/rajesh1996/wanderer-bot?branch=master)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rajesh1996/wanderer-bot/blob/master/LICENSE)
+[![Build Status](https://travis-ci.com/ar808x/wanderer-bot.svg?branch=main)](https://travis-ci.com/ar808x/wanderer-bot)
+
+[![Coverage Status](https://coveralls.io/repos/github/ar808x/wanderer-bot/badge.svg?branch=main)](https://coveralls.io/github/ar808x/wanderer-bot?branch=main)[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rajesh1996/wanderer-bot/blob/master/LICENSE)
 
 ## Overview
 The ARoBot Wanderer is a simulation of an object collecting turtlebot in gazebo that identifies and collects the object’s from different rooms present in the warehouse and transfers them to the desired location. The robot tasks and its environment mimics a warehouse automation setup in which there is no human intervention in collecting the objects. This application can also be extended to other robots, environments, and different object identification tasks. The bot uses the G mapping (SLAM) to map its environment and navigate to certain locations based on the data received on the LIDAR sensor.
